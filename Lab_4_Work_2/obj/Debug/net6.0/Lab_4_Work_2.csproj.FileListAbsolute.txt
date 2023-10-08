@@ -1,0 +1,14 @@
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\bin\Debug\net6.0\Lab_4_Work_2.exe
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\bin\Debug\net6.0\Lab_4_Work_2.deps.json
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\bin\Debug\net6.0\Lab_4_Work_2.runtimeconfig.json
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\bin\Debug\net6.0\Lab_4_Work_2.dll
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\bin\Debug\net6.0\Lab_4_Work_2.pdb
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.AssemblyInfoInputs.cache
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.AssemblyInfo.cs
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.dll
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\refint\Lab_4_Work_2.dll
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.pdb
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\Lab_4_Work_2.genruntimeconfig.cache
+D:\VisualStudio\Lab_4_Work_2\Lab_4_Work_2\obj\Debug\net6.0\ref\Lab_4_Work_2.dll
